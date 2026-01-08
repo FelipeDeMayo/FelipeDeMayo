@@ -19,10 +19,3 @@ Olá!!! Sou o Felipe, estudante de Análise e Desenvolvimento de Sistemas (ADS) 
 </p>
 
 <br/>
-
-### 📊 Estatísticas
-
-<div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=FelipeDeMayo&show_icons=true&theme=highcontrast&locale=pt-br" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeDeMayo&theme=highcontrast&layout=compact&langs_count=8&custom_title=Tecnologias&locale=pt-br" />
-</div>
